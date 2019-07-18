@@ -1,0 +1,92 @@
+body{
+	margin: 0px;
+	padding: 0;
+	background-color: #000000;
+	font-family:italic;
+
+}
+
+.main-content{
+	background-image: url("background-plane.jpg");
+	background-size: 100%;
+	width:1770px;
+	height:969px;
+	margin: auto;
+	
+}
+
+#logo{
+  width:180px;
+  height:35px;
+  margin-top:30px;
+  float:left;
+}
+
+.top-menu{
+	float:right;
+    margin-top:30px;
+	
+}
+
+.top-menu img{
+   margin-right:20px;
+
+}
+
+.main-text{
+	margin-top: 200px;
+	width: 400px;
+	margin-bottom: 900px;
+	
+}
+
+.main-text h1{
+	color:#3DC6EF;
+	font-size: 2.5em;
+	margin-bottom: 20px;
+	}
+	
+.main-text p{
+	color:#d1d1d1;
+	font-size: 13;
+	
+	
+}
+
+.main-text button{
+	color:#3DC6EF;
+	font-size: 13;
+	background-color: black;
+	border: 2px solid #3DC6EF;
+	
+}
+
+.main-text button:hover{
+	background-color:#3DC6EF;
+	
+}
+
+.middle-bar-content{
+	color: white;
+	padding: 0;
+	background-color: #3DC6EF;
+	margin-top: 25px;
+	position: absolute;
+	width: 69%;
+	left: 22%;
+	
+	}
+	
+.middle-bar-content li{
+	width: 110px;
+	list-style: none;
+	float: left;
+	text-align: center;
+	margin-right: 70px;
+	
+}
+
+.middle-bar-content img{
+	width: 50%;
+	
+}
